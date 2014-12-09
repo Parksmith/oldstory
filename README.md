@@ -35,7 +35,13 @@ I always want to write some story about me.Just now.
 >>This is second blockquote.
 >
 >This is my tag.
+
 *alert
 
-** I don't know.&**
+*wrap one star.*
 
+** wrap two stars.&**
+
+use the ' printf() ' function.
+
+![this picture](pic.png "optional title")
